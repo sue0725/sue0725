@@ -19,4 +19,4 @@
    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
 
 <p align="center">
-  [![Suhyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sue0725)](https://github.com/anuraghazra/github-readme-stats)
+  [![Suhyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhyun)](https://github.com/anuraghazra/github-readme-stats)
