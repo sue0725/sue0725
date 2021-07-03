@@ -1,4 +1,4 @@
-![header](http://capsule-render.vercel.app/api?type=slice&color=_hexcode&height=300&section=header&text=Suhyunpark&fontsize=85)
+![header](http://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=300&section=header&text=Suhyunpark&fontsize=85)
 
 # Welcome to my Github
 ## _What happens next_
