@@ -19,10 +19,9 @@
   
 <h3 align="center">🤸🏻‍♀️ Me 🤸</h3>
 <p align="center">
-   <a href="https://www.instagram.com/suehyu_n_/"target="_blank"><img src="https://img.shields.io/badge/instagram-#E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+   <a href="https://www.instagram.com/suehyu_n_/" target="_blank"><img src="https://www.instagram.com/suehyu_n_/instagram-#E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sue0725&&show_icons=true&&theme=gruvbox)
 </div>
 
-<a href="https://www.instagram.com/suehyu_n_/" target="_blank"><img src="https://img.shields.io/badge/-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a>
