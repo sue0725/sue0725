@@ -24,3 +24,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sue0725&&show_icons=true&&theme=gruvbox)
 </div>
+
+<a href="https://www.instagram.com/suehyu_n_/" target="_blank"><img src="https://img.shields.io/badge/-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a>
