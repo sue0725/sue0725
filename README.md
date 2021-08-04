@@ -25,5 +25,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sue0725&&show_icons=true&&theme=gruvbox)
 </div>
 
-
+[![Instagram Badge](https://img.shields.io/badge/Instagram-d14836?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/suehyu_n_/)](https://www.instagram.com/suehyu_n_/)
 
