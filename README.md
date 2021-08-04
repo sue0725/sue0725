@@ -19,10 +19,10 @@
   
 <h3 align="center">🤸🏻‍♀️ Me 🤸</h3>
 <p align="center">
-   [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/suehyu_n_/)](https://www.instagram.com/suehyu_n_/)
-  
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sue0725&&show_icons=true&&theme=gruvbox)
 </div>
 
+<a href="https://www.instagram.com/suehyu_n_/" target="_blank"><img src="https://img.shields.io/badge/-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a>
