@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=_auto&height=300&section=header&text=Suhyun&fontSize=70&animation=fadeIn&fontAlignY=38)
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Suhyun&animation=fadeIn&fontAlign=80&fontAlignY=40&color=gradient)
 
 
