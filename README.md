@@ -1,5 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Suhyun&animation=fadeIn&fontAlign=80&fontAlignY=40&color=gradient)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsue0725%2Fhit-counter&count_bg=%23B5E9E8&title_bg=%23B7B6ED&icon=&icon_color=%23F3EAEA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # Welcome to my Github
 ## _What happens next_
