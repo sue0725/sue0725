@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#CEE3F6&height=300&section=header&text=Suhyun&fontSize=70&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Suhyun&fontSize=70&animation=fadeIn&fontAlignY=38)
 
 
 # Welcome to my Github
