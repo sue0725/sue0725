@@ -1,5 +1,5 @@
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=SuhyunPark!&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&weight=100&height=300&text=SuhyunPark!&fontAlign=80&fontAlignY=40&color=gradient)
 
 
 # Welcome to my Github
