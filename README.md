@@ -18,7 +18,7 @@ Techs that I've used at least once
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   
-<h3>🤸🏻‍♀️ Me 🤸</h3>
+🤸🏻‍♀️ Me 🤸
 
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
