@@ -10,16 +10,16 @@
 
 ## Studying📕
 
-<p align="center"> Techs that I've used at least once</p>
+Techs that I've used at least once
 
-<p align="center">
+
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   
-<h3 align="center">🤸🏻‍♀️ Me 🤸</h3>
-<p align="center">
+<h3>🤸🏻‍♀️ Me 🤸</h3>
+
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
 
