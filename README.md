@@ -7,7 +7,7 @@
 # Welcome to my Github
 ## _What happens next_
 
-<h3>📕 Studying 📕</h3>
+📕 Studying 📕
 
 <p align="center"> Techs that I've used at least once</p>
 
