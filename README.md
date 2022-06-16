@@ -31,5 +31,10 @@ Techs that I've used at least once
 <a href="https://sue0725.github.io"> <img src="http://img.shields.io/badge/-Git%20Blog-655ced?style=flat&logo=github&link=https://sue0725.github.io" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 ---
 
+## What I Experienced
+  
+- ***(2017.08 - 2020.05)*** Australia Working Holiday(Cairns, Sydney)
+  
+  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sue0725&&show_icons=true&&theme=gruvbox)
