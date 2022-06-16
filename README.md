@@ -28,6 +28,7 @@ Techs that I've used at least once
 
  - [<img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white"/>](https://instagram.com/suehyu_n_) 
 </a><a href="mailto:suhyunn0725@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:suhyunn0725@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a></div>
+<a href="https://sue0725.github.io"> <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://sue0725.github.io" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sue0725&&show_icons=true&&theme=gruvbox)
