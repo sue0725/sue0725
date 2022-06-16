@@ -34,6 +34,8 @@ Techs that I've used at least once
 ## What I Experienced
   
 - ***(2017.08 - 2020.05)*** Australia Working Holiday(Cairns, Sydney)
+- ***(2021.03 - 2022.~ing)*** Sunmoon UNIV. Department of Computer Engineering
+- ***(2021.06 - 2022.~ing)*** J2KB Operation team Crew
   
   
 
