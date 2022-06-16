@@ -19,6 +19,7 @@ Techs that I've used at least once
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Java-0071B5?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Java&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Java&logoColor=white"/></a>
   
 🤸🏻‍♀️ Me 🤸
 
