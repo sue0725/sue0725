@@ -26,8 +26,6 @@ Techs that I've used at least once
   
  ## 🌼Suhyun
 
- - [<img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white"/>](https://instagram.com/suehyu_n_) <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:suhyunn0725@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+ - [<img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white"/>](https://instagram.com/suehyu_n_) <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:suhyunn0725@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/><a href="mailto:suhyunn0725@gmail.com">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sue0725&&show_icons=true&&theme=gruvbox)
-
-[![Instagram Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suhyunn0725@gmail.com)](mailto:suhyunn0725@gmail.com)
